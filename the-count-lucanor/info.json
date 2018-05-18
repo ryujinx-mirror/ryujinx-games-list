@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"01000850037C0000",
+		"01000850037C0800"
+	],
+	"name": "The Count Lucanor",
+	"state": "Emulator Error",
+	"state_emu_version": "",
+	"state_last_date": "",
+	"comment": "Loop of a mutexes call because sync primitives where broken in the emulator."
+}

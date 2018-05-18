@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"0100000000010000",
+		"0100000000010800"
+	],
+	"name": "Super Mario Odyssey™",
+	"state": "Unimplemented Services",
+	"state_emu_version": "",
+	"state_last_date": "",
+	"comment": "SVC GetInfo:16 (PersonalMmHeapSize)."
+}

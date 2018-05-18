@@ -1,0 +1,14 @@
+{ 
+	"title_id": 
+	[ 
+		"0100A55003B5C000",
+		"0100A55003B5C800",
+		"0100B7D0022EE000",
+		"0100B7D0022EE800"
+	],
+	"name": "Cave Story+",
+	"state": "In Game",
+	"state_emu_version": "",
+	"state_last_date": "",
+	"comment": "SvcResetSignal - Tried to ResetSignal on invalid event handle 0x00000000! and background of textboxes have alpha blending issues, goes in game but emulation is slow."
+}

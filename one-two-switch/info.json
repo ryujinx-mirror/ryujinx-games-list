@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"01000320000CC000",
+		"01000320000CC800"
+	],
+	"name": "1-2-Switch™",
+	"state": "Boot Screen",
+	"state_emu_version": "",
+	"state_last_date": "",
+	"comment": "Goes at boot screen but emulation is slow."
+}

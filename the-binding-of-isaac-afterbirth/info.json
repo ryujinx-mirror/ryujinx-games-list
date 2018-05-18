@@ -1,0 +1,14 @@
+{ 
+	"title_id": 
+	[ 
+		"010021C000B6A000",
+		"010021C000B6A800",
+		"01005B9002312000",
+		"01005B9002312800"
+	],
+	"name": "The Binding of Isaac : Afterbirth",
+	"state": "In Game",
+	"state_emu_version": "",
+	"state_last_date": "",
+	"comment": "SvcResetSignal - Tried to ResetSignal on invalid event handle 0x00000000! and goes in game but emulation is slow."
+}
