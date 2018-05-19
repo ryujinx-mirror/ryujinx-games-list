@@ -8,7 +8,7 @@
 	],
 	"name": "Cave Story+",
 	"state": "In Game",
-	"state_emu_version": "",
-	"state_last_date": "",
-	"comment": "SvcResetSignal - Tried to ResetSignal on invalid event handle 0x00000000! and background of textboxes have alpha blending issues, goes in game but emulation is slow."
+	"state_emu_version": "7ac5f40",
+	"state_last_date": "19/05/2018",
+	"comment": "Throw some 'SvcResetSignal - Tried to ResetSignal on invalid event handle 0x00000000!' and background of textboxes have an alpha blending issues, goes in game but emulation is slow."
 }
