@@ -5,7 +5,7 @@
 	],
 	"name": "Tiny Barbarian DX",
 	"state": "In Game",
-	"state_emu_version": "",
-	"state_last_date": "",
+	"state_emu_version": "7ac5f40",
+	"state_last_date": "19/05/2018",
 	"comment": "Goes in game but emulation is slow."
 }
