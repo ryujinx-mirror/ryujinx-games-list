@@ -6,7 +6,7 @@
 	],
 	"name": "Super Mario Odyssey™",
 	"state": "Unimplemented Services",
-	"state_emu_version": "",
-	"state_last_date": "",
-	"comment": "SVC GetInfo:16 (PersonalMmHeapSize)."
+	"state_emu_version": "7ac5f40",
+	"state_last_date": "19/05/2018",
+	"comment": "Ask for 'SVC GetInfo:16'."
 }
