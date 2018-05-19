@@ -1,13 +1,13 @@
 # Ryujinx Games Compatibility List
 
-Anyone be free to update or share his results here. But you need to follow some advices to get them validate.
-When you update or add some feedback, please, be much precise as possible, don't forget to enable `Logging_Enable_Debug = true` in the conf file of Ryujinx. In your pull request, add some lines of the logs, some screenshots, or anything usefull to get your result validate. (We can't just trust you by words. Sorry!)
+Anyone is free to update or share their results here. But you need to follow some guideoines to ensure they're valid.
+When you update or add some feedback, please, be as accurate as possible. also, don't forget to enable `Logging_Enable_Debug = true` in the conf file of Ryujinx. In your pull request, add some lines of the logs, some screenshots, or anything useful to get your results vaildated. (We can't just accept every single pull request, Sorry!)
 
 Thanks.
 
 ## Folder structure
 
-A folder is equal to a tested game. It's named like that `new-amazing-ryu-games-supported`, not number, not extra chars, just text with spaces replace by `-`. For now, there are 3 files in this folder:
+A folder is the same name as a tested game. It's named like that `new-amazing-ryu-games-supported`, no number, no extra chars, just text with spaces replaced with `-`. For now, there are three files in this folder:
 
 * **boxart.png**
 
@@ -36,4 +36,4 @@ A folder is equal to a tested game. It's named like that `new-amazing-ryu-games-
 
 * **screenshot.png** (Optionnal)
 
-   Who is the Ryujinx in-game full screenshot in PNG format (only!!). Please use a clean picture, sized at 1280px x 720px (or around). If the game don't show anything in the emulator, please don't provide anything for this file. The `boxart.png` is used instead of this one.
+   Who is the Ryujinx in-game full screenshot in PNG format (only!!). Please use a clean picture, sized at 1280px x 720px (or around that). If the game don't show anything in the emulator, please don't provide anything for this file. The `boxart.png` is used instead of this one.
