@@ -1,7 +1,7 @@
 # Ryujinx Games Compatibility List
 
-Anyone is free to update or share their results here. But you need to follow some guideoines to ensure they're valid.
-When you update or add some feedback, please, be as accurate as possible. also, don't forget to enable `Logging_Enable_Debug = true` in the conf file of Ryujinx. In your pull request, add some lines of the logs, some screenshots, or anything useful to get your results vaildated. (We can't just accept every single pull request, Sorry!)
+Anyone is free to update or share their results here. But you need to follow some guidelines to ensure they're valid.
+When you update or add some feedback, please, be as accurate as possible. Also, don't forget to enable `Logging_Enable_Debug = true` in the conf file of Ryujinx. In your pull request, add some lines of the logs, some screenshots, or anything useful to get your results vaildated. (We can't just accept every single pull request, Sorry!)
 
 Thanks.
 
