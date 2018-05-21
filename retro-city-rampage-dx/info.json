@@ -1,0 +1,11 @@
+{ 
+	"title_id": 
+	[ 
+		"0100F17004156000"
+	],
+	"name": "Retro City Rampage DX",
+	"state": "Emulator Error",
+	"state_emu_version": "",
+	"state_last_date": "10/05/2018",
+	"comment": "`System.OverflowException: Arithmetic operation resulted in an overflow at ChocolArm64.Memory AMemoryHelper.ReadBytes (AMemory Memory, Int64 Position, Int64 Size)`"
+}

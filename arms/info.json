@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"01009B500007C000",
+		"01009B500007C800"
+	],
+	"name": "ARMS™",
+	"state": "Nothing",
+	"state_emu_version": "",
+	"state_last_date": "10/05/2018",
+	"comment": "Loop of `IAudioRenderer: RequestUpdateAudioRenderer`"
+}

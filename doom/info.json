@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"0100416004C00000",
+		"0100416004C00800"
+	],
+	"name": "DOOM",
+	"state": "Unimplemented Services",
+	"state_emu_version": "",
+	"state_last_date": "10/05/2018",
+	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`"
+}

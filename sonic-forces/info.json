@@ -1,0 +1,14 @@
+{ 
+	"title_id": 
+	[ 
+		"01001270012B6000",
+		"01001270012B6800",
+		"0100111004460000",
+		"0100111004460800"
+	],
+	"name": "SONIC FORCES™",
+	"state": "Unimplemented Services",
+	"state_emu_version": "",
+	"state_last_date": "10/05/2018",
+	"comment": "`/dev/nvhost-as-gpu 4105`"
+}

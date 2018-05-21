@@ -1,0 +1,11 @@
+{ 
+	"title_id": 
+	[ 
+		"0100E95004038000"
+	],
+	"name": "Xenoblade Chronicles™ 2",
+	"state": "Unimplemented Services",
+	"state_emu_version": "",
+	"state_last_date": "10/05/2018",
+	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`"
+}

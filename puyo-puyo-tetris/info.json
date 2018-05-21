@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"0100F3D001DEE000",
+		"0100F3D001DEE800"
+	],
+	"name": "Puyo Puyo™ Tetris®",
+	"state": "Intro Screen / Shader Compiler Error",
+	"state_emu_version": "",
+	"state_last_date": "10/05/2018",
+	"comment": "Show intro logos but nothing more after a fade out. / Creates NvMaps 1-19 and the game freezes."
+}
