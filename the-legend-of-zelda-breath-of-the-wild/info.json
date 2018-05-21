@@ -5,8 +5,8 @@
 		"01007EF00011E800"
 	],
 	"name": "The Legend of Zelda™: Breath of the Wild",
-	"state": "Nothing",
-	"state_emu_version": "",
-	"state_last_date": "10/05/2018",
-	"comment": "`Thread 5` exit and ??."
+	"state": "Unimplemented Service",
+	"state_emu_version": "7ac5f40",
+	"state_last_date": "21/05/2018",
+	"comment": "`acc:u0 IAccountServiceForApplication 2` who is `GetUserExistence(nn::account::Uid) -> bool`."
 }
