@@ -11,7 +11,7 @@ A folder is the same name as a tested game. It's named like that `new-amazing-ry
 
 * **boxart.png**
 
-   Who is a picture of the game boxart in PNG format (only!!). Please use a clean picture, without hudge size, and cropped. (A standard size will be probably determined later.)
+   Who is a picture of the game boxart in PNG format (only!!). Please use a clean picture sized at 300px x 486px (or around that).
 
 * **info.json**
 
@@ -24,6 +24,7 @@ A folder is the same name as a tested game. It's named like that `new-amazing-ry
 		"0100000000000000", // Game title ids who can be found on swithbrew or in your gamedump too.
 		"0100000000000001", // You can add more of them if game is multi region.
 		"0100000000000002", // Or if there is an update of the game.
+		"XXXXXXXXXXXXXXXX", // If you can't found title id, use "XXXXXXXXXXXXXXXX" one.
 		"etc..."
 	],
 	"name": "Cave Story+",           // Game name in clean version (folder name is a raw version).
