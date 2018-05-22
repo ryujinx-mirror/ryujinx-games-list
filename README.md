@@ -31,7 +31,8 @@ A folder is the same name as a tested game. It's named like that `new-amazing-ry
 	"state": "In Game",              // Current state of the game, be revelant here.
 	"state_emu_version": "7ac5f40",  // Last Ryujinx commit of your current executable version (for now).
 	"state_last_date": "19/05/2018", // Date of your test.
-	"comment": "Explain what going on here." //Be more precise as possible.
+	"comment": "Explain what going on here.", // Be more precise as possible.
+	"nickname": "YourNickname"       // To know from who the feedback come from.
 }
 ```
 
