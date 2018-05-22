@@ -4,7 +4,7 @@
 		"010059C002AC2000"
 	],
 	"name": "Minecraft: Story Mode - The Complete Adventure",
-	"state": "Threading Error",
+	"state": "Services Error",
 	"state_emu_version": "84996cc",
 	"state_last_date": "22/05/2018",
 	"comment": "`SvcExitProcess` is called after `IParentalControlServiceFactory: CreateService`(last service call).",
