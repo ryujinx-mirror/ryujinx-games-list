@@ -1,11 +1,12 @@
 { 
 	"title_id": 
 	[ 
-		"XXXXXXXXXXXXXXXX"
+		"0100C3800049C000"
 	],
 	"name": "Monster Hunter XX",
 	"state": "CPU Instruction Error",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "32bit game not supported."
+	"comment": "32bit game not supported.",
+	"nickname": "Ac_K"
 }
