@@ -6,7 +6,8 @@
 	],
 	"name": "Soldam: Drop, Connect, Erase",
 	"state": "SVC Error",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "Call `SvcSetThreadPriority 0x32` and `SvcGetThreadContext3 0x33` who are not documented."
+	"comment": "Call `SvcSetThreadPriority 0x32` and `SvcGetThreadContext3 0x33` who are not documented.",
+	"nickname": "Ac_K"
 }
