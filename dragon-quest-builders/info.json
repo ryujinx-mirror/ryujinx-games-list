@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"010008900705C000"
+	],
+	"name": "Dragon Quest Builders",
+	"state": "Unimplemented Service",
+	"state_emu_version": "84996cc",
+	"state_last_date": "22/05/2018",
+	"comment": "`fsp-srv IFileSystemProxy: 202` > `OpenDataStorageByDataId(nn::ApplicationId tid, u8 storageId) -> object<nn::fssrv::sf::IStorage> dataStorage`",
+	"nickname": "Mcdev"
+}

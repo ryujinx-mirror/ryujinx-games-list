@@ -1,0 +1,13 @@
+{ 
+	"title_id": 
+	[ 
+		"010078D000F88000",
+		"010078D000F88800"
+	],
+	"name": "Dragon Ball Xenoverse 2",
+	"state": "Unimplemented Service",
+	"state_emu_version": "84996cc",
+	"state_last_date": "22/05/2018",
+	"comment": "`time:u ITimeZoneService: 4` > `LoadTimeZoneRule(nn::time::LocationName) -> buffer<nn::time::TimeZoneRule, 0x16, 0x4000>`",
+	"nickname": "Mcdev"
+}
