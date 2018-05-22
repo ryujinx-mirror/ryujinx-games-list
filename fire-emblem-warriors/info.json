@@ -6,7 +6,8 @@
 	],
 	"name": "Fire Emblem Warriors",
 	"state": "Unimplemented Services",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "`dev/nvhost-as-gpu 4105 (#NVGPU_AS_IOCTL_UNMAP_BUFFER)`"
+	"comment": "`dev/nvhost-as-gpu 4105 (#NVGPU_AS_IOCTL_UNMAP_BUFFER)`",
+	"nickname": "Ac_K"
 }
