@@ -4,9 +4,9 @@
 		"01000A10041EA000"
 	],
 	"name": "The Elder Scrolls V: Skyrim",
-	"state": "Unimplemented Services",
-	"state_emu_version": "???",
-	"state_last_date": "10/05/2018",
-	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`",
-	"nickname": "Ac_K"
+	"state": "Services Error",
+	"state_emu_version": "84996cc",
+	"state_last_date": "22/05/2018",
+	"comment": "`SetTerminateResult` is called after `IParentalControlServiceFactory: CreateService`(last service call).",
+	"nickname": "Mcdev"
 }
