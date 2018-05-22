@@ -6,7 +6,8 @@
 	],
 	"name": "Pokkén Tournament™ DX",
 	"state": "Unimplemented Services",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "`33 at Ryujinx.Graphics Gpu.TextureReader.Read (AMemory Memory, Texture Texture) is unimplemented!`"
+	"comment": "`33 at Ryujinx.Graphics Gpu.TextureReader.Read (AMemory Memory, Texture Texture) is unimplemented!`",
+	"nickname": "Ac_K"
 }
