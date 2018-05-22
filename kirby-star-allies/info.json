@@ -1,11 +1,12 @@
 { 
 	"title_id": 
 	[ 
-		"XXXXXXXXXXXXXXXX"
+		"01007E3006DDA000"
 	],
 	"name": "Kirby Star Allies",
 	"state": "Unimplemented Services",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`"
+	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`",
+	"nickname": "Ac_K"
 }
