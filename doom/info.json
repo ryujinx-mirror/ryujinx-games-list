@@ -6,8 +6,8 @@
 	],
 	"name": "DOOM",
 	"state": "Unimplemented Services",
-	"state_emu_version": "???",
-	"state_last_date": "10/05/2018",
-	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`",
-	"nickname": "Ac_K"
+	"state_emu_version": "84996cc",
+	"state_last_date": "22/05/2018",
+	"comment": "`nifm:u IStaticService: 5` > `CreateGeneralService(u64, pid) -> object<nn::nifm::detail::IGeneralService>`",
+	"nickname": "Mcdev"
 }
