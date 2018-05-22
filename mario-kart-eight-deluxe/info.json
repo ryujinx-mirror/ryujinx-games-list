@@ -6,7 +6,8 @@
 	],
 	"name": "Mario Kart™ 8 Deluxe",
 	"state": "CPU Instruction Error",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "32bit game not supported, Tried to access `unmapped address 0x00004287f2000006`."
+	"comment": "32bit game not supported, Tried to access `unmapped address 0x00004287f2000006`.",
+	"nickname": "Ac_K"
 }

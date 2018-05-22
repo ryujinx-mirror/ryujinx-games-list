@@ -6,7 +6,8 @@
 	],
 	"name": "ARMS™",
 	"state": "Nothing",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "Loop of `IAudioRenderer: RequestUpdateAudioRenderer`"
+	"comment": "Loop of `IAudioRenderer: RequestUpdateAudioRenderer`",
+	"nickname": "Ac_K"
 }

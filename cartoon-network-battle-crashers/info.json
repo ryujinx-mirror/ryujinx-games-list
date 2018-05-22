@@ -6,7 +6,8 @@
 	],
 	"name": "Cartoon Network: Battle Crashers",
 	"state": "Unimplemented Services",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "`vi:m IApplicationDisplayService: 1000 (ListDisplays)`"
+	"comment": "`vi:m IApplicationDisplayService: 1000 (ListDisplays)`",
+	"nickname": "Ac_K"
 }

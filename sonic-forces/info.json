@@ -8,7 +8,8 @@
 	],
 	"name": "SONIC FORCES™",
 	"state": "Unimplemented Services",
-	"state_emu_version": "",
+	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "`/dev/nvhost-as-gpu 4105`"
+	"comment": "`/dev/nvhost-as-gpu 4105`",
+	"nickname": "Ac_K"
 }
