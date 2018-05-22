@@ -7,6 +7,6 @@
 	"state": "CPU Instruction Error",
 	"state_emu_version": "84996cc",
 	"state_last_date": "22/05/2018",
-	"comment": "`System.ArgumentNullException: Value cannot be null`. Parameter name: `MthdInfo` at `ChocolArm64.Translation.AILEmitterCtx.EmitCall(MethodInfo MthdInfo)` in `ChocolArm64\Translation\AILEmitterCtx.cs` line 483",
+	"comment": "`System.ArgumentNullException: Value cannot be null`. Parameter name: `MthdInfo` at `ChocolArm64.Translation.AILEmitterCtx.EmitCall(MethodInfo MthdInfo)` in `ChocolArm64/Translation/AILEmitterCtx.cs` line 483",
 	"nickname": "Mcdev"
 }
