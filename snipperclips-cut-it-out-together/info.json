@@ -1,0 +1,13 @@
+{ 
+	"title_id": 
+	[ 
+		"0100704000B3A000",
+		"0100704000B3A800"
+	],
+	"name": "Snipperclips™ - Cut it out, together!",
+	"state": "Unimplemented Service",
+	"state_emu_version": "79e0070",
+	"state_last_date": "22/05/2018",
+	"comment": "Call Svc `0x33 svcGetThreadContext3`",
+	"nickname": "Slick9000"
+}
