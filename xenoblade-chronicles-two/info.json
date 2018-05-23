@@ -5,8 +5,8 @@
 	],
 	"name": "Xenoblade Chronicles™ 2",
 	"state": "Unimplemented Services",
-	"state_emu_version": "???",
-	"state_last_date": "10/05/2018",
-	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`",
-	"nickname": "Ac_K"
+	"state_emu_version": "84996cc",
+	"state_last_date": "22/05/2018",
+	"comment": "`nvdrv INvDrvServices: 13`",
+	"nickname": "Mcdev"
 }
