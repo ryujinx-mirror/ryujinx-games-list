@@ -36,6 +36,6 @@ A folder is the same name as a tested game. It's named like that `new-amazing-ry
 }
 ```
 
-* **screenshot.png** (Optionnal)
+* **screenshot.png** (Optional)
 
-   Who is the Ryujinx in-game full screenshot in PNG format (only!!). Please use a clean picture, sized at 1280px x 720px (or around that). If the game don't show anything in the emulator, please don't provide anything for this file. The `boxart.png` is used instead of this one.
+   Please ensure you have a full screenshot of the Ryujinx with the game displaying; please only use a `.png` format only. It must be  1280px x 720px (or around that). If the game don't show anything in the emulator, please don't provide anything for this file; and the `boxart.png` will be used instead.
