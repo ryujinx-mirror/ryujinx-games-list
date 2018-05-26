@@ -7,7 +7,7 @@ Thanks.
 
 ## Folder structure
 
-A folder is the same name as a tested game. It's named like that `new-amazing-ryu-games-supported`, no number, no extra chars, just text with spaces replaced with `-`. For now, there are three files in this folder:
+A folder is the same name as a tested game. It's named like that `new-amazing-ryu-game-supported`, no number, no extra chars, just text with spaces replaced with `-`. For now, there are three files in this folder:
 
 * **boxart.png**
 
@@ -21,10 +21,10 @@ A folder is the same name as a tested game. It's named like that `new-amazing-ry
  { 
 	"title_id": 
 	[ 
-		"0100000000000000", // Game title ids who can be found on swithbrew or in your gamedump too.
+		"0100000000000000", // Game title ids which can be found on swithbrew or in your gamedump as well.
 		"0100000000000001", // You can add more of them if game is multi region.
 		"0100000000000002", // Or if there is an update of the game.
-		"XXXXXXXXXXXXXXXX", // If you can't found title id, use "XXXXXXXXXXXXXXXX" one.
+		"XXXXXXXXXXXXXXXX", // If you can't found title id, use "XXXXXXXXXXXXXXXX" instead.
 		"etc..."
 	],
 	"name": "Cave Story+",           // Game name in clean version (folder name is a raw version).
@@ -32,7 +32,7 @@ A folder is the same name as a tested game. It's named like that `new-amazing-ry
 	"state_emu_version": "7ac5f40",  // Last Ryujinx commit of your current executable version (for now).
 	"state_last_date": "19/05/2018", // Date of your test.
 	"comment": "Explain what going on here.", // Be more precise as possible.
-	"nickname": "YourNickname"       // To know from who the feedback come from.
+	"nickname": "YourNickname"       // So we know who exactly made the commit changes.
 }
 ```
 
