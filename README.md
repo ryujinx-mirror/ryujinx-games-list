@@ -21,7 +21,7 @@ A folder is the same name as a tested game. It's named something like this `new-
  { 
 	"title_id": 
 	[ 
-		"0100000000000000", // Game title ids who can be found on swithbrew or in your gamedump too.
+		"0100000000000000", // Game title ids who can be found on switchbrew or in your gamedump too.
 		"0100000000000001", // You can add more of them if game is multi region.
 		"0100000000000002", // Or if there is an update of the game.
 		"XXXXXXXXXXXXXXXX", // If you can't found title id, use "XXXXXXXXXXXXXXXX" one.
