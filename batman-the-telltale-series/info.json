@@ -4,9 +4,9 @@
 		"0100011005D92000"
 	],
 	"name": "Batman: The Telltale Series",
-	"state": "Boot Screen",
-	"state_emu_version": "cb1cf48",
-	"state_last_date": "25/05/2018",
-	"comment": "Show the boot screen and after a loop of `IAudioOut: GetReleasedAudioOutBuffer` it's waiting something.",
-	"nickname": "Mcdev & Ping"
+	"state": "Unimplemented Service",
+	"state_emu_version": "84996cc",
+	"state_last_date": "22/05/2018",
+	"comment": "`appletOE IApplicationFunctions: 50` > `GetPseudoDeviceId() -> nn::util::Uuid`",
+	"nickname": "Mcdev"
 }
