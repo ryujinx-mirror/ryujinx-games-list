@@ -1,0 +1,13 @@
+{ 
+	"title_id": 
+	[ 
+		"0100F7B002340000",
+		"0100F7B002340800"
+	],
+	"name": "FIFA 18",
+	"state": "Emulator Error",
+	"state_emu_version": "30829fc",
+	"state_last_date": "25/05/2018",
+	"comment": "Nothing after calls `ISelfController: SetPerformanceModeChangedNotification` & `ISelfController: SetRestartMessageEnabled` who are stubbed.",
+	"nickname": "Mcdev"
+}

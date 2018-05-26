@@ -6,8 +6,8 @@
 	],
 	"name": "Rocket League®",
 	"state": "Unimplemented Services",
-	"state_emu_version": "???",
-	"state_last_date": "10/05/2018",
-	"comment": "`SVC GetInfo:16 (PersonalMmHeapSize)`",
-	"nickname": "Ac_K"
+	"state_emu_version": "30829fc",
+	"state_last_date": "25/05/2018",
+	"comment": "`time:u ITimeZoneService: 4` > `LoadTimeZoneRule(nn::time::LocationName) -> buffer<nn::time::TimeZoneRule, 0x16, 0x4000>`",
+	"nickname": "Mcdev"
 }
