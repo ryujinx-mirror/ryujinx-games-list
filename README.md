@@ -7,15 +7,15 @@ Thanks.
 
 ## Folder structure
 
-A folder is the same name as a tested game. It's named like that `new-amazing-ryu-games-supported`, no number, no extra chars, just text with spaces replaced with `-`. For now, there are three files in this folder:
+A folder is the same name as a tested game. It's named something like this `new-amazing-ryu-game-supported`, no numbers, no extra characters, just text with spaces replaced with `-`. For now, there are three files in this folder:
 
 * **boxart.png**
 
-   Who is a picture of the game boxart in PNG format (only!!). Please use a clean picture sized at 300px x 486px (or around that).
+   A picture of the actual game case, in PNG format only please. Please do use a clean picture sized at 300px x 486px (or around that).
 
 * **info.json**
 
-   It's a JSON file who contain specific fields (Don't forget to remove comments if you Copy/Paste)
+   It's a JSON file which contains specific fields (Don't forget to remove comments if you Copy and Paste)
    
 ```javascript
  { 
@@ -27,12 +27,12 @@ A folder is the same name as a tested game. It's named like that `new-amazing-ry
 		"XXXXXXXXXXXXXXXX", // If you can't found title id, use "XXXXXXXXXXXXXXXX" one.
 		"etc..."
 	],
-	"name": "Cave Story+",           // Game name in clean version (folder name is a raw version).
-	"state": "In Game",              // Current state of the game, be revelant here.
+	"name": "Cave Story+",           // Game name in a clean version (folder name is in a raw version).
+	"state": "In Game",              // Current state of the game, be revelant or consistent here.
 	"state_emu_version": "7ac5f40",  // Last Ryujinx commit of your current executable version (for now).
 	"state_last_date": "19/05/2018", // Date of your test.
-	"comment": "Explain what going on here.", // Be more precise as possible.
-	"nickname": "YourNickname"       // To know from who the feedback come from.
+	"comment": "Explain what going on here.", // Be as precise and detailed as possible.
+	"nickname": "YourNickname"       // We just need to know who made the changes, and also give credit.
 }
 ```
 
