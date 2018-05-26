@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"0100274004052000"
+	],
+	"name": "Payday 2",
+	"state": "CPU Instruction Error",
+	"state_emu_version": "30829fc",
+	"state_last_date": "25/05/2018",
+	"comment": "`Tried to access unmapped address 0x000000000009cbc0!` after `IStorage: Read` call.",
+	"nickname": "Mcdev"
+}

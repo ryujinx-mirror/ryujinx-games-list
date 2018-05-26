@@ -1,0 +1,13 @@
+{ 
+	"title_id": 
+	[ 
+		"0100F78002040000",
+		"0100F78002040800"
+	],
+	"name": "Troll and I™",
+	"state": "Unimplemented Services",
+	"state_emu_version": "30829fc",
+	"state_last_date": "25/05/2018",
+	"comment": "`hid IHidServer: 202` > `GetActualVibrationValue(nn::hid::VibrationDeviceHandle, nn::applet::AppletResourceUserId, pid) -> nn::hid::VibrationValue`",
+	"nickname": "Mcdev"
+}

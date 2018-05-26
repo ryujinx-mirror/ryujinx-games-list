@@ -1,0 +1,13 @@
+{ 
+	"title_id": 
+	[ 
+		"0100A62002042000",
+		"0100A62002042800"
+	],
+	"name": "RiME",
+	"state": "CPU Instruction Error",
+	"state_emu_version": "30829fc",
+	"state_last_date": "25/05/2018",
+	"comment": "`Address 0x00000000247ab6c0 does not have \"Write\" permission!` after `IStorage: Read` call.",
+	"nickname": "Mcdev"
+}
