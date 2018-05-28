@@ -8,8 +8,8 @@
 	],
 	"name": "Splatoon™ 2",
 	"state": "Boot Screen",
-	"state_emu_version": "7ac5f40",
-	"state_last_date": "19/05/2018",
+	"state_emu_version": "9670c09",
+	"state_last_date": "28/05/2018",
 	"comment": "Sometimes it deadlocks or sometimes it ask for shaders instruction 'Bra'",
 	"nickname": "Ac_K & Slick9000"
 }
