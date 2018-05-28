@@ -10,6 +10,6 @@
 	"state": "Boot Screen",
 	"state_emu_version": "7ac5f40",
 	"state_last_date": "19/05/2018",
-	"comment": "Sometimes it deadlocks or sometimes it ask for 'IApplicationFunctions 50'",
+	"comment": "Sometimes it deadlocks or sometimes it ask for shaders instruction 'Bra'",
 	"nickname": "Ac_K"
 }
