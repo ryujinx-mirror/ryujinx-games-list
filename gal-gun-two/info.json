@@ -7,6 +7,6 @@
 	"state": "Emulator Error",
 	"state_emu_version": "79e0070",
 	"state_last_date": "22/05/2018",
-	"comment": "Throw a `SetTerminateResult: Result = 0x000002a2 (2162-0001)` after allocate some memory.",
+	"comment": "Throws a `SetTerminateResult: Result = 0x000002a2 (2162-0001)` after it allocated some memory.",
 	"nickname": "Slick9000"
 }

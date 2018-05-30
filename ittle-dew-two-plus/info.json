@@ -7,6 +7,6 @@
 	"state": "Unimplemented Service",
 	"state_emu_version": "84996cc",
 	"state_last_date": "22/05/2018",
-	"comment": "Call Svc `0x33 svcGetThreadContext3`",
+	"comment": "Calls Svc `0x33 svcGetThreadContext3`",
 	"nickname": "Mcdev"
 }

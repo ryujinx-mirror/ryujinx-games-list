@@ -7,6 +7,6 @@
 	"state": "Boot Screen",
 	"state_emu_version": "cb1cf48",
 	"state_last_date": "25/05/2018",
-	"comment": "Show the boot screen and after a loop of `IAudioOut: GetReleasedAudioOutBuffer` it's waiting something.",
+	"comment": "Shows the boot screen and after a loop of `IAudioOut: GetReleasedAudioOutBuffer` it's waiting for something.",
 	"nickname": "Mcdev & Ping"
 }

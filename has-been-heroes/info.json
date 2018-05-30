@@ -8,6 +8,6 @@
 	"state": "Nothing",
 	"state_emu_version": "???",
 	"state_last_date": "10/05/2018",
-	"comment": "Loop of `SvcSignalProcessWideKey` because sync primitives where broken in the emulator.",
+	"comment": "Loop of `SvcSignalProcessWideKey` because sync primitives were broken in the emulator.",
 	"nickname": "Ac_K"
 }
