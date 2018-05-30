@@ -8,6 +8,6 @@
 	"state": "Unimplemented Service",
 	"state_emu_version": "7ac5f40",
 	"state_last_date": "21/05/2018",
-	"comment": "`acc:u0 IAccountServiceForApplication 2` who is `GetUserExistence(nn::account::Uid) -> bool`.",
+	"comment": "`acc:u0 IAccountServiceForApplication 2` which is `GetUserExistence(nn::account::Uid) -> bool`.",
 	"nickname": "Mcdev"
 }
