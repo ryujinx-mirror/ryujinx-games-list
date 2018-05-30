@@ -10,6 +10,6 @@
 	"state": "Boot Screen",
 	"state_emu_version": "9670c09",
 	"state_last_date": "28/05/2018",
-	"comment": "Sometimes it deadlocks or sometimes it ask for shaders instruction 'Bra'",
+	"comment": "Sometimes it deadlocks or sometimes it asks for shader instruction 'Bra'",
 	"nickname": "Ac_K & Slick9000"
 }
