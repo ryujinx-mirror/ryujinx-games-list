@@ -8,6 +8,6 @@
 	"state": "Boot Screen",
 	"state_emu_version": "7ac5f40",
 	"state_last_date": "19/05/2018",
-	"comment": "Goes at boot screen and ask for `/dev/nvhost-nvdec 4801` after.",
+	"comment": "Goes to boot screen and then asks for `/dev/nvhost-nvdec 4801`.",
 	"nickname": "Ac_K"
 }
