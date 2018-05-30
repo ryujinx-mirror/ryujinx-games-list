@@ -7,6 +7,6 @@
 	"state": "Menu Screen",
 	"state_emu_version": "30829fc",
 	"state_last_date": "25/05/2018",
-	"comment": "Goes at menu screen and nothing when you start a new game.",
+	"comment": "Goes to menu screen and freezes when you start a new game.",
 	"nickname": "gdkchan"
 }
