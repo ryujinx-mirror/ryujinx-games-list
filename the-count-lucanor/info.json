@@ -8,6 +8,6 @@
 	"state": "Emulator Error",
 	"state_emu_version": "7ac5f40",
 	"state_last_date": "19/05/2018",
-	"comment": "Loop of a mutexes call because sync primitives where broken in the emulator.",
+	"comment": "Loop of a mutexes call because sync primitives were broken in the emulator.",
 	"nickname": "Ac_K"
 }
