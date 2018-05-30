@@ -10,6 +10,6 @@
 	"state": "In Game",
 	"state_emu_version": "7ac5f40",
 	"state_last_date": "19/05/2018",
-	"comment": "Throw some 'SvcResetSignal - Tried to ResetSignal on invalid event handle 0x00000000!' and goes in game but emulation is slow.",
+	"comment": "Throws 'SvcResetSignal - Tried to ResetSignal on invalid event handle 0x00000000!' and goes ingame but emulation is slow.",
 	"nickname": "Ac_K"
 }
