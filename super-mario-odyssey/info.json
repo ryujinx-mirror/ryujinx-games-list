@@ -8,6 +8,7 @@
 	"state": "Unimplemented Services",
 	"state_emu_version": "84996cc",
 	"state_last_date": "22/05/2018",
-	"comment": "`appletOE IApplicationFunctions: 66` > `InitializeGamePlayRecording(u64, KObject)`. Boots to the title-screen if you are using Cyus custom build. But this has not been merged yet.",
+	"comment": "`appletOE IApplicationFunctions: 66` > `InitializeGamePlayRecording(u64, KObject)`." 
+	"Boots to the title-screen if you are using Cyus custom build. But this has not been merged yet.",
 	"nickname": "Mcdev"
 }
