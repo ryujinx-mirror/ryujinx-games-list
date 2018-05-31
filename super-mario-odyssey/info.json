@@ -5,9 +5,9 @@
 		"0100000000010800"
 	],
 	"name": "Super Mario Odyssey™",
-	"state": "Title screen / Texture issues",
-	"state_emu_version": "Not merged",
-	"state_last_date": "31/05/2018",
-	"comment": "Boots to the title-screen if you are using Cyus custom build, but is missing proper texture rendering support. This has not been merged yet.",
-	"nickname": "Mcdev & Dr.Hacknik"
+	"state": "Unimplemented Services",
+	"state_emu_version": "84996cc",
+	"state_last_date": "22/05/2018",
+	"comment": "`appletOE IApplicationFunctions: 66` > `InitializeGamePlayRecording(u64, KObject)`.",
+	"nickname": "Mcdev"
 }
