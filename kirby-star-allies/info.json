@@ -5,8 +5,8 @@
 	],
 	"name": "Kirby Star Allies",
 	"state": "Unimplemented Services",
-	"state_emu_version": "84996cc",
-	"state_last_date": "22/05/2018",
-	"comment": "Need to implement `pctl`",
-	"nickname": "Mcdev"
+	"state_emu_version": "f03a43fa",
+	"state_last_date": "02/06/2018",
+	"comment": "pctl IParentalControlServiceFactory: 1 (Initialize)",
+	"nickname": "Hexagon12"
 }

@@ -4,9 +4,9 @@
 		"01008BB00013C000"
 	],
 	"name": "Flog",
-	"state": "Nothing",
-	"state_emu_version": "???",
-	"state_last_date": "10/05/2018",
-	"comment": "Tries to render something. Yet it hangs.",
-	"nickname": "Ac_K & Dr.Hacknik"
+	"state": "In Game",
+	"state_emu_version": "f03a43fa",
+	"state_last_date": "02/06/2018",
+	"comment": "Renders one of the joycons, but the other one and the main NES screen are missing",
+	"nickname": "Hexagon12"
 }

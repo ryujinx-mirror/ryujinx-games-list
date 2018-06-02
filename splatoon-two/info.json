@@ -1,4 +1,4 @@
-{ 
+﻿{ 
 	"title_id": 
 	[ 
 		"01003BC0000A0000",
@@ -7,9 +7,9 @@
 		"0100F8F0000A2800"
 	],
 	"name": "Splatoon™ 2",
-	"state": "Boot Screen",
-	"state_emu_version": "9670c09",
-	"state_last_date": "28/05/2018",
-	"comment": "Sometimes it deadlocks or sometimes it asks for shader instruction 'Bra'",
-	"nickname": "Ac_K & Slick9000"
+	"state": "GPU error / boot screen",
+	"state_emu_version": "f03a43fa",
+	"state_last_date": "02/06/2018",
+	"comment": "Sometimes it deadlocks or exceeds the constant register limit of 1024 to compile GL code",
+	"nickname": "Hexagon12"
 }

@@ -5,9 +5,9 @@
 		"0100416004C00800"
 	],
 	"name": "DOOM",
-	"state": "Unimplemented Services",
-	"state_emu_version": "84996cc",
-	"state_last_date": "22/05/2018",
-	"comment": "`nifm:u IStaticService: 5` > `CreateGeneralService(u64, pid) -> object<nn::nifm::detail::IGeneralService>`",
-	"nickname": "Mcdev"
+	"state": "Unimplemented services",
+	"state_emu_version": "f03a43fa",
+	"state_last_date": "02/06/2018",
+	"comment": "bcat:u",
+	"nickname": "Hexagon12"
 }
