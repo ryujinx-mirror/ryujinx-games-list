@@ -1,10 +1,10 @@
-﻿{ 
+{ 
 	"title_id": 
 	[ 
 		"0100E95004038000"
 	],
 	"name": "Xenoblade Chronicles™ 2",
-	"state": "Emulation error",
+	"state": "Emulation Error",
 	"state_emu_version": "e7efee79",
 	"state_last_date": "03/06/2018",
 	"comment": "Last line: `ServiceHid GetVibrationDeviceInfo: Stubbed.`",
