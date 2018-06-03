@@ -6,8 +6,8 @@
 	],
 	"name": "Puyo Puyo™ Tetris®",
 	"state": "Intro Screen",
-	"state_emu_version": "f03a43fa",
-	"state_last_date": "02/06/2018",
+	"state_emu_version": "e7efee79",
+	"state_last_date": "03/06/2018",
 	"comment": "Shows intro logos but nothing more after a fadeout.",
 	"nickname": "Hexagon12"
 }

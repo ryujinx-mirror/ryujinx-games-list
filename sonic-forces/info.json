@@ -8,8 +8,8 @@
 	],
 	"name": "SONIC FORCES™",
 	"state": "Emulation error",
-	"state_emu_version": "f03a43fa",
-	"state_last_date": "02/06/2018",
+	"state_emu_version": "e7efee79",
+	"state_last_date": "03/06/2018",
 	"comment": "Crashes right after `ServiceAm SetOutOfFocusSuspendingEnabled: Stubbed.` gets reported (regression)",
 	"nickname": "Hexagon12"
 }

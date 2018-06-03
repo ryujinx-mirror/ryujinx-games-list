@@ -5,8 +5,8 @@
 	],
 	"name": "Flog",
 	"state": "In Game",
-	"state_emu_version": "f03a43fa",
-	"state_last_date": "02/06/2018",
+	"state_emu_version": "e7efee79",
+	"state_last_date": "03/06/2018",
 	"comment": "Renders one of the joycons, but the other one and the main NES screen are missing",
 	"nickname": "Hexagon12"
 }
