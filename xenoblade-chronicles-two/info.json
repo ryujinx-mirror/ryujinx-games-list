@@ -1,12 +1,12 @@
-{ 
+﻿{ 
 	"title_id": 
 	[ 
 		"0100E95004038000"
 	],
 	"name": "Xenoblade Chronicles™ 2",
-	"state": "Unimplemented Services",
-	"state_emu_version": "84996cc",
-	"state_last_date": "22/05/2018",
-	"comment": "`nvdrv INvDrvServices: 13`",
-	"nickname": "Mcdev"
+	"state": "Emulation error",
+	"state_emu_version": "e7efee79",
+	"state_last_date": "03/06/2018",
+	"comment": "Last line: `ServiceHid GetVibrationDeviceInfo: Stubbed.`",
+	"nickname": "Hexagon12"
 }

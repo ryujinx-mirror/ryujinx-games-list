@@ -5,9 +5,9 @@
 		"0100F15003E64800"
 	],
 	"name": "Fire Emblem Warriors",
-	"state": "Unimplemented Services",
-	"state_emu_version": "???",
-	"state_last_date": "10/05/2018",
-	"comment": "`dev/nvhost-as-gpu 4105 (#NVGPU_AS_IOCTL_UNMAP_BUFFER)`",
-	"nickname": "Ac_K"
+	"state": "Emulation error",
+	"state_emu_version": "e7efee79",
+	"state_last_date": "03/06/2018",
+	"comment": "The game is reporting guest FPS with `ServiceHid SendVibrationValue: Stubbed.` and no graphics",
+	"nickname": "Hexagon12"
 }
