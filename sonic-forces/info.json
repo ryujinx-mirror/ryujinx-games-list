@@ -1,4 +1,4 @@
-﻿{ 
+{ 
 	"title_id": 
 	[ 
 		"01001270012B6000",
@@ -7,9 +7,9 @@
 		"0100111004460800"
 	],
 	"name": "SONIC FORCES™",
-	"state": "Emulation error",
+	"state": "Emulation Error",
 	"state_emu_version": "e7efee79",
 	"state_last_date": "03/06/2018",
-	"comment": "Crashes right after `ServiceAm SetOutOfFocusSuspendingEnabled: Stubbed.` gets reported (regression)",
+	"comment": "Crashes right after `ServiceAm SetOutOfFocusSuspendingEnabled: Stubbed.` gets reported (regression).",
 	"nickname": "Hexagon12"
 }
