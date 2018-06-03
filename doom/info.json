@@ -5,9 +5,9 @@
 		"0100416004C00800"
 	],
 	"name": "DOOM",
-	"state": "Unimplemented services",
+	"state": "Unimplemented Services",
 	"state_emu_version": "e7efee79",
 	"state_last_date": "03/06/2018",
-	"comment": "bcat:u",
+	"comment": "Ask for `bcat:u`.",
 	"nickname": "Hexagon12"
 }
