@@ -1,13 +1,13 @@
-﻿{ 
+{ 
 	"title_id": 
 	[ 
 		"01007EF00011E000",
 		"01007EF00011E800"
 	],
 	"name": "The Legend of Zelda™: Breath of the Wild",
-	"state": "Unimplemented services",
+	"state": "Unimplemented Services",
 	"state_emu_version": "e7efee79",
 	"state_last_date": "03/06/2018",
-	"comment": "acc:u0 IAccountServiceForApplication: 2 (ListAllUsers)",
+	"comment": "Ask for `acc:u0 IAccountServiceForApplication: 2 (ListAllUsers)`.",
 	"nickname": "Hexagon12"
 }
