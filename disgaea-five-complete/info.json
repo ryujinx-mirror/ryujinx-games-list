@@ -5,9 +5,9 @@
 		"01005700031AE800"
 	],
 	"name": "Disgaea 5 Complete",
-	"state": "Audio emulation error",
+	"state": "Audio Emulation Error",
 	"state_emu_version": "e7efee79",
 	"state_last_date": "03/06/2018",
-	"comment": "Throws a userland assert after failing to initialize the audio engine",
+	"comment": "Throws a userland assert after failing to initialize the audio engine.",
 	"nickname": "Hexagon12"
 }
