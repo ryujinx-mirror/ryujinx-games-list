@@ -6,8 +6,8 @@
 	],
 	"name": "Super Mario Odyssey™",
 	"state": "Main Menu Screen",
-	"state_emu_version": "e7efee79",
-	"state_last_date": "03/06/2018",
+	"state_emu_version": "49fd76db",
+	"state_last_date": "10/06/2018",
 	"comment": "The game boots to the main menu in 2-3 minutes, input is broken though.",
 	"nickname": "Hexagon12 & Cyuubi"
 }
