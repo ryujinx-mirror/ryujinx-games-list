@@ -5,7 +5,7 @@
 		"0100E65002BB8800", 
 	],
 	"name": "Stardew Valley",           
-	"state": "Unimplemented Services",              
+	"state": "Emulator Error",              
 	"state_emu_version": "e581abb",  
 	"state_last_date": "13/06/2018", 
 	"comment": "SvcBreak is called after some `IAudioRenderer: RequestUpdateAudioRenderer`", 
