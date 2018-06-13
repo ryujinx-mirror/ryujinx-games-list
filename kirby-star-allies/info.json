@@ -7,6 +7,6 @@
 	"state": "Unimplemented Services",
 	"state_emu_version": "e7efee79",
 	"state_last_date": "03/06/2018",
-	"comment": "pctl IParentalControlServiceFactory: 1 (Initialize)",
+	"comment": "Ask for `pctl IParentalControlServiceFactory: 1 (Initialize)`",
 	"nickname": "Hexagon12"
 }
