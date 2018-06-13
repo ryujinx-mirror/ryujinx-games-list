@@ -1,0 +1,12 @@
+{
+	"title_id": 
+	[ 
+		"0100C1F0051B6000",
+	],
+	"name": "Donkey Kong Country: Tropical Freeze",
+	"state": "Unimplemented Services",
+	"state_emu_version": "f1e866e2",
+	"state_last_date": "12/06/2018",
+	"comment": "Ask for `pctl IParentalControlServiceFactory: 1 (Initialize)`",
+	"nickname": "Kentastic" 
+}

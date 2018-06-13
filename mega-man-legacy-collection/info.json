@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"01002D4007AE0000"
+	],
+	"name": "Mega Man Legacy Collection",
+	"state": "Unimplemented Services",
+	"state_emu_version": "afa5bf8",
+	"state_last_date": "13/06/2018",
+	"comment": "Ask for `appletOE ICommonStateGetter: 61` > `GetDefaultDisplayResolutionChangeEvent() -> KObject`",
+	"nickname": "HorrorTroll"
+}
