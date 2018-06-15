@@ -7,6 +7,6 @@
 	"state": "Unimplemented Services",             
 	"state_emu_version": "e581abb",  
 	"state_last_date": "15/06/2018", 
-	"comment": "time:u ISystemClock: 2", 
+	"comment": "Ask for `time:u ISystemClock: 2`", 
 	"nickname": "MysticExile"       
 }
