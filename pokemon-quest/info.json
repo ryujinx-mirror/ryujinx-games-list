@@ -1,0 +1,12 @@
+{ 
+	"title_id": 
+	[ 
+		"01005d100807a000",
+	],
+	"name": "Pokémon Quest",      
+	"state": "Unimplemented Services",             
+	"state_emu_version": "e581abb",  
+	"state_last_date": "15/06/2018", 
+	"comment": "Ask for `time:u ISystemClock: 2`", 
+	"nickname": "MysticExile"       
+}
