@@ -11,12 +11,6 @@ Last error returned.
 e.g.: Unhandled Exception: System.NotImplementedException: /dev/nvhost-nvdec 40044801
 ```
 
-#### How to fix :
-
-*Describe what implementations/changes have made to fix issues here.*
-
-*(Optional section, remove it if unneeded)*
-
 #### Pull requests needed :
 
 *Add needed PR links here.*
