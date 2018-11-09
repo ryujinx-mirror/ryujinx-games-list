@@ -1,4 +1,4 @@
-## GAME NAME
+## Game Name
 
 #### Current on `master`:
 
