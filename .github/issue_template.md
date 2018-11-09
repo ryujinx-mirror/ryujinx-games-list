@@ -2,7 +2,7 @@
 
 #### Current on `master` :
 
-* Commit Id / Build Version : *(e.g. 0a41a3ff / 1.0.1952)*
+* Commit Id *or* Build Version : *(e.g. 0a41a3ff or 1.0.1952)*
 
 *Describe the current game state here.*
 
