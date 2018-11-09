@@ -15,22 +15,22 @@ e.g.: Unhandled Exception: System.NotImplementedException: /dev/nvhost-nvdec 400
 
 *Describe what implementations/changes have made to fix issues here.*
 
-*(Section optional, remove it if unneeded)*
+*(Optional section, remove it if unneeded)*
 
 #### Pull requests needed :
 
 *Add needed PR links here.*
 
-*(Section optional, remove it if unneeded)*
+*(Optional section, remove it if unneeded)*
 
 #### Screenshots :
 
 *Add screenshots here if the game rendering something.*
 
-*(Section optional, remove it if unneeded)*
+*(Optional section, remove it if unneeded)*
 
 #### Log file :
 
 *Add a link to the log file here.*
 
-*(Section optional, remove it if unneeded)*
+*(Optional section, remove it if unneeded)*
