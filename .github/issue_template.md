@@ -23,6 +23,14 @@ e.g.: Unhandled Exception: System.NotImplementedException: /dev/nvhost-nvdec 400
 
 *(Optional section, remove it if unneeded)*
 
+#### Outstanding Issues:
+
+*Add issue links here.*
+
+*Example: https://github.com/Ryujinx/Ryujinx/issues/xxx (xxx = number issue)*
+
+*(Optional section, remove it if unneeded)*
+
 #### Log file :
 
 *Add a link to the log file here.*
