@@ -1,8 +1,6 @@
 ## Game Name
 
-#### Current on `master` :
-
-* Commit Id *or* Build Version : *(e.g. 0a41a3ff or 1.0.1952)*
+#### Current on `master` : Commit Id *or* Build Version : *(e.g. 0a41a3ff or 1.0.1952)*
 
 *Describe the current game state here.*
 
@@ -17,17 +15,17 @@ e.g.: Unhandled Exception: System.NotImplementedException: /dev/nvhost-nvdec 400
 
 *(Optional section, remove it if unneeded)*
 
-#### Screenshots :
-
-*Add screenshots here if the game rendering something.*
-
-*(Optional section, remove it if unneeded)*
-
 #### Outstanding Issues:
 
 *Add issue links here.*
 
 *Example: https://github.com/Ryujinx/Ryujinx/issues/xxx (xxx = number issue)*
+
+*(Optional section, remove it if unneeded)*
+
+#### Screenshots :
+
+*Add screenshots here if the game rendering something.*
 
 *(Optional section, remove it if unneeded)*
 
