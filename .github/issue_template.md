@@ -1,5 +1,7 @@
 ## Game Name
 
+#### Game Update Version : *(e.g. 1.0 or 1.1.3)*
+
 #### Current on `master` : Commit Id *or* Build Version : *(e.g. 0a41a3ff or 1.0.1952)*
 
 *Describe the current game state here.*
@@ -8,6 +10,10 @@
 Last error returned.
 e.g.: Unhandled Exception: System.NotImplementedException: /dev/nvhost-nvdec 40044801
 ```
+
+#### Hardware Specs : 
+
+*Add your PC's hardware specs here: CPU & GPU required.*
 
 #### Pull requests needed :
 
