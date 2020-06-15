@@ -15,3 +15,14 @@ All updates to the Ryujinx official master build will be documented in this file
 ### Changed
 - Console logging now discards data in an overflow condition.
   - This can reduce cases where the game deadlocks or crashes because the console is in Select mode or is manually scrolled.
+
+## 1.0.4683 - 2020-06-06
+### Changed
+- Stubbed ssl ISslContext: 4 (ImportServerPki) service
+  - Fixes missing service crashes on Minecraft Dungeons and Rocket League
+
+## 1.0.4682 - 2020-06-05
+### Added
+- Add Pclmulqdq intrinsic
+  - Implemented crc32 in terms of pclmulqdq
+  
