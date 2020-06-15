@@ -13,7 +13,9 @@ e.g.: Unhandled Exception: System.NotImplementedException: /dev/nvhost-nvdec 400
 
 #### Hardware Specs : 
 
-*Add your PC's hardware specs here: CPU & GPU required.*
+##### CPU: *(e.g. i7-6700)*
+##### GPU: *(e.g. NVIDIA RTX 2070)*
+##### RAM: *(e.g. 16GB)*
 
 #### Pull requests needed :
 
