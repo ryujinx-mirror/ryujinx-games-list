@@ -10,3 +10,8 @@ All updates to the Ryujinx official master build will be documented in this file
 ### Changed
 - LayoutConverter has separate optimizations for LinearStrided and BlockLinear. MethodCopyBuffer now determines the range that will be affected, and uses a faster per pixel copy and offset calculation. 
   - This should increase performance on Nintendo Switch Online: NES and Super NES games, as well as mitigate dropped frames during large black screen (nvdec) videos.
+
+## 1.0.4687 - 2020-06-09
+### Changed
+- Console logging now discards data in an overflow condition.
+  - This can reduce cases where the game deadlocks or crashes because the console is in Select mode or is manually scrolled.
