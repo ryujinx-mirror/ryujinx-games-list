@@ -1,6 +1,6 @@
 ## Game Name
 
-#### Game Update Version : *(e.g. 1.0 or 1.1.3)*
+#### Game Update Version : *(e.g. 1.0.0 or 1.1.3)*
 
 #### Current on `master` : Commit Id *or* Build Version : *(e.g. 0a41a3ff or 1.0.1952)*
 
