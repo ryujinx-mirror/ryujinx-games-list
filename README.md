@@ -1,4 +1,4 @@
-# Ryujinx Games Compatibility List
+# Ryujinx Game Compatibility List
 
 Anyone is free to update or share their results here, with the following requirements:
 - You must use an official master build with the "Ignore Missing Services" feature DISABLED
