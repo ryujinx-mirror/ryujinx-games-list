@@ -1,8 +1,8 @@
 # Ryujinx Game Compatibility List
 
 Anyone is free to update or share their results here, with the following requirements:
-- You must use an official master build with the "Ignore Missing Services" feature DISABLED. All mods must be disabled.
-- Follow the new issue template and remove any unnecessary text, but please leave all formatting intact.
+- You must use an official master/main build with any hacks disabled. All mods of any kind must also be disabled.
+- Follow the new issue template and remove any unnecessary text, but **please leave all formatting intact**.
 - Search for a game first before adding a new issue; if you find an existing issue that is out of date, reply to it with a copied/pasted new issue template. A curator will then edit the OP with your test data.
 
 When you update or add additional information in an issue, please reply to the issue indicating your changes.
