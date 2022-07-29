@@ -1,7 +1,7 @@
 # Ryujinx Game Compatibility List
 
 Anyone is free to update or share their results here, with the following requirements:
-- You **must** use an official master/main build with any hacks disabled. All mods of any kind must also be disabled.
+- You **must** use an official master/main build with any hacks disabled. All mods & cheats of any kind must also be disabled.
 - Follow the new issue template and remove any unnecessary text, but **please leave all formatting intact**. Include the title ID in all caps in the title of the issue; see existing issues for examples.
 - Search for a game first before adding a new issue; if you find an existing issue that is out of date, reply to it with a copied/pasted new issue template. A curator will then edit the OP with your test data.
 
