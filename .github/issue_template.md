@@ -4,6 +4,8 @@
 
 #### Current on `master` : Commit Id *or* Build Version : *(e.g. 0a41a3ff or 1.0.1952)*
 
+#### Graphics Backend : *(e.g. Vulkan or OpenGL)*
+
 *Describe the current game state here.*
 
 ```
