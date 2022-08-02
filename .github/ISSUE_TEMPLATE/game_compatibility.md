@@ -1,3 +1,9 @@
+---
+name: Game Compatiblity
+about: Report a game status on Ryujinx
+#assignees:
+---
+
 ## Game Name
 
 #### Game Update Version : *(e.g. 1.0.0 or 1.1.3)*
