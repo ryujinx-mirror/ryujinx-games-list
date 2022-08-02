@@ -1,6 +1,6 @@
 ---
-name: Game Compatiblity
-about: Report a game status on Ryujinx
+name: Game Compatibility
+about: Report a game's compatibility status on Ryujinx
 #assignees:
 ---
 
