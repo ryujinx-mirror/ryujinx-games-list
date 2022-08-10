@@ -8,7 +8,7 @@ about: Report a game's compatibility status on Ryujinx
 
 #### Game Update Version : *(e.g. 1.0.0 or 1.1.3)*
 
-#### Current on `master` : Commit Id *or* Build Version : *(e.g. 0a41a3ff or 1.0.1952)*
+#### Current on `master` : Emulator Build Version : *(e.g. 1.1.202)*
 
 #### Graphics Backend : *(e.g. Vulkan or OpenGL)*
 
