@@ -20,7 +20,9 @@ about: Report a game's compatibility status on Ryujinx
 
 
 *Describe the current game state here. 
-List the issues you've noticed if there are any. Add links to pull requests that fix issues described if/when applicable. 
+List the issues you've noticed if there are any. 
+Add links to related issues from the main repository if they exist.
+Add links to pull requests that fix issues described if/when applicable. 
 Add a zipped save file for easy access to any issues if needed, namely for situations that can only be accessed after several hours of gameplay.*
 
 ```
