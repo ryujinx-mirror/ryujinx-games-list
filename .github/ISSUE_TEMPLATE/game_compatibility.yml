@@ -1,0 +1,80 @@
+name: Game Compatibility
+description: Report a game's compatibility status on Ryujinx
+body:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for game?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+      - label: I have searched the existing game issues
+        required: true
+  - type: input
+    id: game-name
+    attributes:
+      label: Game Name
+      placeholder: ## Game Name
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: Game Update Version
+      placeholder: #### *(e.g. 1.0.0 or 1.1.3)*
+    validations:
+      required: true
+  - type: input
+    id: emulator-version
+    attributes:
+      label: Emulator Build Version
+      placeholder: #### *(e.g. 1.1.373)*
+    validations:
+      required: true
+  - type: dropdown
+    id: backend
+    attributes:
+      label: Graphics Backend
+      options:
+        - OpenGL
+        - Vulkan
+        - OpenGL and Vulkan
+    validations:
+      required: true
+  - type: textarea
+    id: hardware-specs
+    attributes:
+      label: Hardware Specs
+      value: |
+        - ##### CPU: *(e.g. i7-6700)*
+        - ##### GPU: *(e.g. NVIDIA RTX 2070)*
+        - ##### RAM: *(e.g. 16GB)*
+    validations:
+      required: true
+  - type: textarea
+    id: game-state
+    attributes:
+      label: "Game State"
+      description: "Describe the current game state here."
+      placeholder: /
+        - Describe the current game state here. 
+        - List the issues you've noticed if there are any. 
+        - Add links to related issues from the main repository if they exist.
+        - Add links to pull requests that fix issues described if/when applicable. 
+        - Add a zipped save file for easy access to any issues if needed, namely for situations that can only be accessed after several hours of gameplay.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshots
+      description: Add screenshots here (preferably on windowed mode) if the game is rendering.
+      placeholder: You can drag and drop the images on to the textarea
+    validations:
+      required: false
+  - type: textarea
+    id: log
+    attributes:
+      label: Log File
+      description: Logs files can be found under "Logs" folder in Ryujinx program folder. 
+      placeholder: You can drag and drop the log on to the textarea
+    validations:
+      required: false
