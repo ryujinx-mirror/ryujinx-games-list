@@ -3,8 +3,8 @@ description: Report a game's compatibility status on Ryujinx
 body:
   - type: checkboxes
     attributes:
-      label: Is there an existing issue for game?
-      description: Please search to see if an issue already exists for the bug you encountered.
+      label: Is there an existing issue for the game?
+      description: Please search to see if an issue/page already exists for the game you're reporting on.
       options:
       - label: I have searched the existing game issues
         required: true
@@ -67,14 +67,14 @@ body:
     attributes:
       label: Screenshots
       description: Add screenshots here (preferably on windowed mode) if the game is rendering.
-      placeholder: You can drag and drop the images on to the textarea
+      placeholder: Drag and drop the images/screenshots onto the text area.
     validations:
       required: false
   - type: textarea
     id: log
     attributes:
       label: Log File
-      description: Logs files can be found under "Logs" folder in Ryujinx program folder. 
-      placeholder: You can drag and drop the log on to the textarea
+      description: Logs files can be found under the "Logs" subfolder in the Ryujinx program folder. 
+      placeholder: Drag and drop the log file onto the text area.
     validations:
       required: false
