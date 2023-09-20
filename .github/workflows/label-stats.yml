@@ -1,0 +1,67 @@
+name: Generate label stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    name: Generate label stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: master
+
+      - name: Query stats
+        uses: actions/github-script@v6
+        id: stats
+        with:
+          result-encoding: string
+          script: |
+            const query = `query($owner: String!, $name: String!) { 
+              repository(owner: $owner, name: $name) {
+                labels(first: 100, query: "status") {
+                  nodes {
+                    name
+                    issues {
+                      totalCount
+                    }
+                  }
+                }
+              }
+            }`;
+
+            const variables = {
+              owner: context.repo.owner,
+              name: context.repo.repo,
+            }
+
+            const result = await github.graphql(query, variables)
+
+            const labelsWithIssueCount = result.repository.labels.nodes;
+            const formattedData = {};
+            labelsWithIssueCount.forEach((label) => {
+              formattedData[label.name] = label.issues.totalCount;
+            });
+            
+            return formattedData;
+
+      - name: Write stats
+        run: |
+          EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+          cat << $EOF > compat-stats.json
+          ${{steps.stats.outputs.result}}
+          $EOF
+
+      - name: Commit stats
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "Update compat-stats.json"
+          git push
