@@ -23,7 +23,7 @@ jobs:
         with:
           result-encoding: string
           script: |
-            const query = `query($owner: String!, $name: String!) { 
+            const query = `query($owner: String!, $name: String!) {
               repository(owner: $owner, name: $name) {
                 labels(first: 100, query: "status") {
                   nodes {
@@ -48,6 +48,8 @@ jobs:
             labelsWithIssueCount.forEach((label) => {
               formattedData[label.name] = label.issues.totalCount;
             });
+
+            console.log(formattedData);
             
             return formattedData;
 
@@ -55,7 +57,7 @@ jobs:
         run: |
           EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
           cat << $EOF > compat-stats.json
-          ${{steps.stats.outputs.result}}
+          ${{ steps.stats.outputs.result }}
           $EOF
 
       - name: Commit stats
