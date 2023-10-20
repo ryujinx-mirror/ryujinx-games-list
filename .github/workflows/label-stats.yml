@@ -59,10 +59,21 @@ jobs:
           ${{ steps.stats.outputs.result }}
           $EOF
 
-      - name: Commit stats
+      - name: Configure git
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: Check if files have been modified
+        id: mod_check
+        run: |
+          [[ $(git status -s | wc -l) -le 1 ]] \
+          && echo "is-dirty=false" >> "$GITHUB_OUTPUT" \
+          || echo "is-dirty=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push stats
+        if: steps.mod_check.outputs.is-dirty == 'true'
+        run: |
           git add .
           git commit -m "Update compat-stats.json"
           git push
