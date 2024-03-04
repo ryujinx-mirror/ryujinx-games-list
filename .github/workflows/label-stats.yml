@@ -13,12 +13,12 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: master
 
       - name: Query stats
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         id: stats
         with:
           script: |
