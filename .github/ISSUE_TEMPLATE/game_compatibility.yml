@@ -18,8 +18,8 @@ body:
   - type: input
     id: emulator-version
     attributes:
-      label: Emulator Build Version
-      placeholder: #### *(e.g. 1.1.373)*
+      label: Ryujinx Version (Revision Hash)
+      placeholder: #### *(e.g. r67111a5)*
     validations:
       required: true
   - type: dropdown
